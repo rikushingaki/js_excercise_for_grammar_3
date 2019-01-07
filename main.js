@@ -8,7 +8,7 @@
 //     - デベロッパーツールのConsole上に0~99までの値が出力されたら正解
 
 let num = 0;
-while(num <= 100) {
+while(num < 100) {
     console.log(num);
     num++;
 }
